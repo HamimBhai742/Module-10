@@ -114,4 +114,10 @@ header {
     .nav-icon{
         display: flex;
     }
+    .banner-img img{
+        width: 100%;
+    }
+   .banner-img{
+    background-size: 90%;
+   }
 }
