@@ -102,14 +102,12 @@ header {
         margin-left: 100px;
     }
     nav ul li{
-        margin-left: 30px;
+        
     }
-    nav ul li a{
-        max-width: 900px;
-    }
+
     .banner-container{
         flex-direction: column-reverse;
         text-align: center;
-        margin-left: 200px;
+        margin-left: 20px;
     }
 }
